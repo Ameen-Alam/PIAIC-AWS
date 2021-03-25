@@ -13,5 +13,5 @@ https://docs.google.com/document/d/1Ajuk80mn2X_OFAcz5iu4RCxBqOl6hNfqyWlJkLF2YCQ/
 ### Assignments
 
 1. AWS S3 Assignments
-![AWS S3](./AWS-S3/README.md)
+![AWS S3](/AWS-S3/README.md)
     
