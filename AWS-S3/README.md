@@ -104,7 +104,7 @@ $ aws iam attach-role-policy --role-name Test-UserAccess-Role --policy-arn arn:a
 
 11. [S3 Batch Operations: Create a Job](https://www.youtube.com/watch?v=hUv34voEftc)
 
-12. ![AWS-S3-ACL-public-read-write-security-concern](/AWS-S3-ACL-public-read-write-security-concern)
+12. [AWS-S3-ACL-public-read-write-security-concern](/AWS-S3-ACL-public-read-write-security-concern)
 
 13. [Billing & Cost Management Dashboard](https://console.aws.amazon.com/billing/home)
 
