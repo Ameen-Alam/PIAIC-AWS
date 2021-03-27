@@ -132,8 +132,7 @@ $ aws iam attach-role-policy --role-name Test-UserAccess-Role --policy-arn arn:a
 
 20. [Storage Lens](https://aws.amazon.com/blogs/aws/s3-storage-lens/)
 
-Amazon Route 53 pricing
-https://aws.amazon.com/route53/pricing/
+21. [Amazon Route 53 pricing](https://aws.amazon.com/route53/pricing/)
 
 
 ### Alert:
