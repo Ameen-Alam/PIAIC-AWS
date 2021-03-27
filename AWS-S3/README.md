@@ -132,3 +132,13 @@ $ aws iam attach-role-policy --role-name Test-UserAccess-Role --policy-arn arn:a
 
 20. [Storage Lens](https://aws.amazon.com/blogs/aws/s3-storage-lens/)
 
+Amazon Route 53 pricing
+https://aws.amazon.com/route53/pricing/
+
+
+### Alert:
+
+[AWS Free Tier](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsm.page-all-free-tier=1&awsf.Free%20Tier%20Categories=*all)
+
+Amazon Route 53 HostedZone
+$0.50 per Hosted Zone for the first 25 Hosted Zones1.000 HostedZone$0.50
