@@ -2,6 +2,10 @@
 
 Amazon Web Services (AWS) is a secure cloud services platform, offering compute power, database storage, content delivery and other functionality to help businesses scale and grow. In simple words AWS allows you to do the following things- Running web and application servers in the cloud to host dynamic websites.
 
+**Is AWS easy to learn?**
+
+Learning AWS can be quick an easy and can take as little as a few days up to a few months. But, the exact time it'll take you to learn AWS depends on your past experience. Okay, so that gives you a rough idea of how long you can expect to learn AWS.
+
 
 
 ### Syllabus
