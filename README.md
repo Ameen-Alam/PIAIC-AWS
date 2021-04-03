@@ -26,6 +26,9 @@ https://aws.amazon.com/pricing/
 1. [How AWS Pricing Works](https://d1.awsstatic.com/whitepapers/aws_pricing_overview.pdf?did=wp_card&trk=wp_card)
 2. [3 Ways to Save Big and 10 Price Variations to Watch Out For](https://cloud.netapp.com/blog/3-ways-to-save-big-and-10-price-variations-to-know-aws-cvo-blg)
 
+5. [Amazon Web Services Simple Monthly Calculator](https://calculator.s3.amazonaws.com/index.html)
+
+6. [AWS Pricing Calculator](https://calculator.aws/)
 
 ### Assignments
 
