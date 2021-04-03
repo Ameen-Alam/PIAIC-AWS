@@ -90,10 +90,6 @@ $ aws iam attach-role-policy --role-name Test-UserAccess-Role --policy-arn arn:a
 
 4. [Amazon S3 Service Level Agreement](https://aws.amazon.com/s3/sla/)
 
-5. [Amazon Web Services Simple Monthly Calculator](https://calculator.s3.amazonaws.com/index.html)
-
-6. [AWS Pricing Calculator](https://calculator.aws/)
-
 7. [Access control list (ACL) overview](https://docs.aws.amazon.com/AmazonS3/latest/userguide/acl-overview.html)
 
 8. [Amazon S3 Reduced Redundancy Storage](https://aws.amazon.com/s3/reduced-redundancy/)
